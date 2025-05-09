@@ -59,7 +59,7 @@ body {
   grid-row: 2;
 }
 
-.image img{
+.image img {
   border-radius: 50%;
 }
 
@@ -67,20 +67,24 @@ body {
   margin: 10px 0 20px;
   font-size: 20px;
   z-index: 2;
+  font-family: Barlow Semi Condensed;
 }
 
 .cards p {
   font-size: 18px;
   z-index: 2;
+  font-family: Barlow Semi Condensed;
 }
 
 .txt-black h4 {
   color: black;
   font-size: 13;
+  font-family: Barlow Semi Condensed;
 }
 .txt-black {
   color: rgb(20, 20, 20);
   font-size: 13;
+  font-family: Barlow Semi Condensed;
 }
 
 @media screen and (max-width: 640px) {
